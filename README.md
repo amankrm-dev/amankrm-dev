@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **I’m currently learning Python,Java**
 
-- 👨‍💻 All of my projects are available at [https://amankrm-dev.github.io/Portfolio-Website/](https://amankrm-dev.github.io/Portfolio-Website/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
